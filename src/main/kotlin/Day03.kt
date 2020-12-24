@@ -325,7 +325,7 @@ private const val INPUT = """.........###......#...#.......#
 .........#....#...#.......#....
 """.trimIndent()
 
-object A {
+object Day03 {
     private val splitted = INPUT.split("\n")
 
     @JvmStatic

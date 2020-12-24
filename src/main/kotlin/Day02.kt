@@ -4,7 +4,7 @@ private const val INPUT = """
 2-9 c: ccccccccc
 """
 
-object Day2 {
+object Day02 {
     @JvmStatic
     fun main(args: Array<String>) {
         day2section1()

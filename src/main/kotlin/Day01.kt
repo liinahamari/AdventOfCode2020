@@ -11,7 +11,7 @@ private const val INPUT = """
 1456
 """
 
-object Day1 {
+object Day01 {
     @JvmStatic
     fun main(args: Array<String>) {
         day1Section1()
